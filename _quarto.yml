@@ -2,14 +2,19 @@ project:
   type: website
 
 website:
-  title: "web"
+  title: "Fatso Jetson writes..."
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: 'about'
+      - href: books\index.qmd
+        text: 'books'
+      - href: film_&_tv\index.qmd
+        text: 'film & TV'
+      - href: games\index.qmd
+        text: 'games'
       - href: blog\index.qmd
-        text: Blog
+        text: '& other stuff'
 
 format:
   html:

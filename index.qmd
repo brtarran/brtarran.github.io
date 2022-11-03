@@ -1,5 +1,5 @@
 ---
-title: "web"
+title: "Fatso Jetson writes..."
 ---
 
 This is a Quarto website.
