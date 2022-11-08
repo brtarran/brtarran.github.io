@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Fatso Jetson writes…",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "In the meantime, check out this other website I’m creating."
   },
   {
     "objectID": "blog/about.html",
@@ -23,7 +23,7 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "blog",
+    "title": "Things I’ve been thinking about",
     "section": "",
     "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 31, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
@@ -40,5 +40,40 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "books/index.html",
+    "href": "books/index.html",
+    "title": "What I’ve been reading",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "film-and-tv/index.html",
+    "href": "film-and-tv/index.html",
+    "title": "What I’ve been watching",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "games/index.html",
+    "href": "games/index.html",
+    "title": "What I’ve been playing",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "books/post-with-code/index.html",
+    "href": "books/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "books/posts/post-with-code/index.html",
+    "href": "books/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
   }
 ]

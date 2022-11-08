@@ -5,20 +5,20 @@ website:
   title: "Fatso Jetson writes..."
   navbar:
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: 'about'
-      - href: books\index.qmd
+      - href: books/index.qmd
         text: 'books'
-      - href: film_&_tv\index.qmd
+      - href: film-and-tv/index.qmd
         text: 'film & TV'
-      - href: games\index.qmd
+      - href: games/index.qmd
         text: 'games'
-      - href: blog\index.qmd
+      - href: blog/index.qmd
         text: '& other stuff'
 
 format:
   html:
-    theme: cosmo
+    theme: sketchy
     css: styles.css
     toc: true
 

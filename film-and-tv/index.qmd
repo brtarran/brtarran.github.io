@@ -1,6 +1,6 @@
 ---
-title: "Things I've been thinking about"
-subtitle: Assorted thoughts and musings
+title: "What I've been watching"
+subtitle: Movies, TV shows, etc.
 listing:
   contents: posts
   sort: "date desc"
@@ -11,5 +11,4 @@ listing:
 page-layout: full
 title-block-banner: "#878787"
 ---
-
 
