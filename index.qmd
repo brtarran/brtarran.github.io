@@ -2,6 +2,6 @@
 title: "Fatso Jetson writes..."
 ---
 
-This is a Quarto website.
+This is a Quarto website. I'm developing it... slowly.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+In the meantime, check out this [other website](https://realworlddatascience.net/) I'm creating.

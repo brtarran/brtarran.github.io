@@ -1,5 +1,0 @@
----
-title: "about"
----
-
-About this site
