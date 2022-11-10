@@ -3,6 +3,14 @@ project:
 
 website:
   title: "Fatso Jetson writes..."
+  description: Personal homepage of Brian Tarran
+  site-url: https://fatso-jetson.github.io/
+  repo-url: https://github.com/fatso-jetson/fatso-jetson.github.io
+  search: true
+  open-graph: true
+  twitter-card:
+    creator: "@brtarran"
+
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +23,13 @@ website:
         text: 'games'
       - href: blog/index.qmd
         text: '& other stuff'
+    right:
+      - href: https://github.com/fatso-jetson
+        icon: github
+      - href: https://twitter.com/brtarran
+        icon: twitter
+      - href: https://mastodon.social/@brtarran
+        icon: mastodon
 
 format:
   html:
