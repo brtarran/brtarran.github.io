@@ -9,6 +9,7 @@
   {
     "listing": "/books/index.html",
     "items": [
+      "/books/posts/video-test/video-test.html",
       "/books/posts/post-with-code/index.html"
     ]
   },
