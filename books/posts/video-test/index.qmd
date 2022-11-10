@@ -1,0 +1,9 @@
+---
+title: "Video test"
+author: "Harlow Malloc"
+date: "2022-11-10"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
