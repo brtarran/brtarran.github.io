@@ -30,6 +30,8 @@ website:
         icon: twitter
       - href: https://mastodon.social/@brtarran
         icon: mastodon
+      - href: https://www.linkedin.com/in/brian-tarran-58b0261/
+        icon: linkedin
 
 format:
   html:
