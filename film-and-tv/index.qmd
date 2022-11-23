@@ -10,5 +10,6 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: "#878787"
+comments: false
 ---
 
