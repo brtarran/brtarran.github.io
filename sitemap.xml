@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fatso-jetson.github.io/index.html</loc>
-    <lastmod>2022-11-23T12:20:55.265Z</lastmod>
-  </url>
-  <url>
     <loc>https://fatso-jetson.github.io/games/index.html</loc>
-    <lastmod>2022-11-23T12:20:55.925Z</lastmod>
+    <lastmod>2022-12-01T11:03:29.810Z</lastmod>
   </url>
   <url>
-    <loc>https://fatso-jetson.github.io/blog/index.html</loc>
-    <lastmod>2022-11-23T12:20:56.321Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2022-11-23T12:20:57.161Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/blog/posts/welcome/index.html</loc>
-    <lastmod>2022-11-23T12:20:57.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/books/index.html</loc>
-    <lastmod>2022-11-23T12:20:58.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/books/posts/post-with-code/index.html</loc>
-    <lastmod>2022-11-23T12:20:59.117Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/books/posts/video-test/index.html</loc>
-    <lastmod>2022-11-23T12:20:59.917Z</lastmod>
+    <loc>https://fatso-jetson.github.io/index.html</loc>
+    <lastmod>2022-12-01T11:03:31.542Z</lastmod>
   </url>
   <url>
     <loc>https://fatso-jetson.github.io/film-and-tv/index.html</loc>
-    <lastmod>2022-11-23T12:21:00.213Z</lastmod>
+    <lastmod>2022-12-01T11:03:31.878Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/books/posts/post-with-code/index.html</loc>
+    <lastmod>2022-12-01T11:03:33.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/books/posts/video-test/index.html</loc>
+    <lastmod>2022-12-01T11:03:33.934Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/books/index.html</loc>
+    <lastmod>2022-12-01T11:03:34.274Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/blog/posts/post-with-code/index.html</loc>
+    <lastmod>2022-12-01T11:03:34.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/blog/posts/welcome/index.html</loc>
+    <lastmod>2022-12-01T11:03:35.682Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/blog/index.html</loc>
+    <lastmod>2022-12-01T11:03:36.006Z</lastmod>
   </url>
 </urlset>
