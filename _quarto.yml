@@ -36,6 +36,7 @@ website:
   page-footer: 
     right:
       - href: edit-link.html
+      - text: hello
 
 format:
   html:
