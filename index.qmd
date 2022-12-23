@@ -12,3 +12,5 @@ I am a former editor of [Research-Live.com](https://www.research-live.com/) and 
 In my spare time, I play as many games and watch as much film and TV as grown-up responsibilities allow. I plan to use this site mostly to keep track of the things I'm [playing](games/index.qmd), [watching](film-and-tv/index.qmd) and [reading](books/index.qmd), and to share what I think about them. I'm also learning how to code, so this is my space to experiment without the worry of breaking anything important!
 
 Ignore this - this is a test.
+
+<p>This site is open source. {% github_edit_link "Improve this page" %}</p>
