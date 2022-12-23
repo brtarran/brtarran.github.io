@@ -33,9 +33,9 @@ website:
       - href: https://www.linkedin.com/in/brian-tarran-58b0261/
         icon: linkedin
 
-page-footer: 
-  right:
-    - href: edit-link.html
+  page-footer: 
+    right:
+      - href: edit-link.html
 
 format:
   html:
