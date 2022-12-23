@@ -33,16 +33,14 @@ website:
       - href: https://www.linkedin.com/in/brian-tarran-58b0261/
         icon: linkedin
 
+page-footer: 
+  right:
+    - href: edit-link.html
+
 format:
   html:
     theme: [sketchy, custom.scss]
     # css: styles.css
     toc: true
 
-include-after-body: edit-link.html
-
-repository: https://github.com/fatso-jetson/fatso-jetson.github.io
-
-plugins:
-  - jekyll-github-metadata
-
+# include-after-body: edit-link.html
