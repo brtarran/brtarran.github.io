@@ -39,6 +39,8 @@ format:
     # css: styles.css
     toc: true
 
+repository: https://github.com/fatso-jetson/fatso-jetson.github.io
+
 plugins:
   - "jekyll-github-metadata"
 
