@@ -43,6 +43,6 @@ include-after-body: edit-link.html
 
 repository: https://github.com/fatso-jetson/fatso-jetson.github.io
 
-# plugins:
-#   - "jekyll-github-metadata"
+plugins:
+  - "jekyll-github-metadata"
 
