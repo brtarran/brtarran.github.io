@@ -10,6 +10,8 @@ name: Render and Publish
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
     steps:
       - name: Check out repository
         uses: actions/checkout@v3 
@@ -42,5 +44,3 @@ jobs:
         with:
           branch: gh-pages
           folder: _site
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
