@@ -39,4 +39,5 @@ format:
     # css: styles.css
     toc: true
 
-# include-after-body: edit-link.html
+execute: 
+  freeze: auto
