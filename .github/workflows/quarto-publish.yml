@@ -33,9 +33,12 @@ jobs:
       #     python -m pip install numpy
       #     python -m pip install matplotlib
 
-      - name: Publish to GitHub Pages (and render)
+      - name: Render with Quarto
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Deploy
         if: github.event_name != 'pull_request'
-        uses: quarto-dev/quarto-actions/publish@v2
+        uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           branch: gh-pages
           folder: _site
