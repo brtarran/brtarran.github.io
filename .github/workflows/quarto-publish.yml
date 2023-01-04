@@ -1,5 +1,8 @@
 on:
+  workflow_dispath:
   push:
+    branches: main
+  pull_request:
     branches: main
 
 name: Render and Publish
@@ -31,6 +34,7 @@ jobs:
       #     python -m pip install matplotlib
 
       - name: Publish to GitHub Pages (and render)
+        if: github.event_name != 'pull_request'
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
