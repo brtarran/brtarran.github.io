@@ -33,11 +33,6 @@ website:
       - href: https://www.linkedin.com/in/brian-tarran-58b0261/
         icon: linkedin
 
-  page-footer: 
-    right:
-      - href: edit-link.html
-      - text: hello
-
 format:
   html:
     theme: [sketchy, custom.scss]
