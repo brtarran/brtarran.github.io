@@ -4,14 +4,13 @@ author: "Harlow Malloc"
 date: "2022-11-03"
 categories: [news, code, analysis]
 image: "image.jpg"
-code-fold: show
-execute: 
-  eval: false
 ---
 
 This is a post with executable code.
 
-```{r}
+<details>
+<summary>Code</summary>
+```{{r}}
 library(ggplot2)
 library(dplyr)
 library(ggtext)
@@ -72,3 +71,4 @@ ggplot(
     axis.text.x = element_blank()
   )
 ```
+</details>
