@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/film-and-tv/index.html",
-    "items": []
-  },
-  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/posts/post-with-code/index.html",
@@ -12,6 +8,10 @@
   },
   {
     "listing": "/games/index.html",
+    "items": []
+  },
+  {
+    "listing": "/film-and-tv/index.html",
     "items": []
   },
   {
