@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fatso-jetson.github.io/blog/index.html</loc>
-    <lastmod>2023-06-19T12:22:02.254Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-06-19T12:22:03.846Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/blog/posts/welcome/index.html</loc>
-    <lastmod>2023-06-19T12:22:04.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/index.html</loc>
-    <lastmod>2023-06-19T12:22:05.150Z</lastmod>
-  </url>
-  <url>
     <loc>https://fatso-jetson.github.io/games/index.html</loc>
-    <lastmod>2023-06-19T12:22:05.554Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/film-and-tv/index.html</loc>
-    <lastmod>2023-06-19T12:22:05.954Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fatso-jetson.github.io/books/index.html</loc>
-    <lastmod>2023-06-19T12:22:06.598Z</lastmod>
+    <lastmod>2023-07-17T17:34:44.475Z</lastmod>
   </url>
   <url>
     <loc>https://fatso-jetson.github.io/books/posts/post-with-code/index.html</loc>
-    <lastmod>2023-06-19T12:22:07.538Z</lastmod>
+    <lastmod>2023-07-17T17:34:43.843Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/books/index.html</loc>
+    <lastmod>2023-07-17T17:34:42.511Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/blog/posts/welcome/index.html</loc>
+    <lastmod>2023-07-17T17:34:41.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/index.html</loc>
+    <lastmod>2023-07-17T17:34:39.023Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/blog/index.html</loc>
+    <lastmod>2023-07-17T17:34:39.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/blog/posts/post-with-code/index.html</loc>
+    <lastmod>2023-07-17T17:34:42.051Z</lastmod>
   </url>
   <url>
     <loc>https://fatso-jetson.github.io/books/posts/video-test/index.html</loc>
-    <lastmod>2023-06-19T12:22:08.474Z</lastmod>
+    <lastmod>2023-07-17T17:34:43.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/film-and-tv/index.html</loc>
+    <lastmod>2023-07-17T17:34:44.175Z</lastmod>
   </url>
 </urlset>
