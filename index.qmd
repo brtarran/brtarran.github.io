@@ -3,7 +3,7 @@ pagetitle: Brian Tarran writes...
 toc: false
 webr:
   channel-type: "post-message"
-  show-start-up-message: false
+  show-startup-message: false
 filters:
   - webr
 ---
