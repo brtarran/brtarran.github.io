@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brtarran.github.io/blog/posts/welcome/index.html</loc>
-    <lastmod>2023-09-05T05:16:42.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brtarran.github.io/blog/index.html</loc>
-    <lastmod>2023-09-05T05:16:41.135Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brtarran.github.io/index.html</loc>
-    <lastmod>2023-09-05T05:16:40.203Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brtarran.github.io/books/posts/video-test/index.html</loc>
-    <lastmod>2023-09-05T05:16:39.395Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brtarran.github.io/books/index.html</loc>
-    <lastmod>2023-09-05T05:16:36.959Z</lastmod>
+    <loc>https://brtarran.github.io/games/index.html</loc>
+    <lastmod>2023-09-25T14:37:53.646Z</lastmod>
   </url>
   <url>
     <loc>https://brtarran.github.io/books/posts/post-with-code/index.html</loc>
-    <lastmod>2023-09-05T05:16:38.435Z</lastmod>
+    <lastmod>2023-09-25T14:37:53.014Z</lastmod>
   </url>
   <url>
-    <loc>https://brtarran.github.io/film-and-tv/index.html</loc>
-    <lastmod>2023-09-05T05:16:39.795Z</lastmod>
+    <loc>https://brtarran.github.io/books/index.html</loc>
+    <lastmod>2023-09-25T14:37:51.266Z</lastmod>
   </url>
   <url>
-    <loc>https://brtarran.github.io/games/index.html</loc>
-    <lastmod>2023-09-05T05:16:40.611Z</lastmod>
+    <loc>https://brtarran.github.io/blog/posts/welcome/index.html</loc>
+    <lastmod>2023-09-25T14:37:50.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/index.html</loc>
+    <lastmod>2023-09-25T14:37:48.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/blog/index.html</loc>
+    <lastmod>2023-09-25T14:37:49.282Z</lastmod>
   </url>
   <url>
     <loc>https://brtarran.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-09-05T05:16:41.883Z</lastmod>
+    <lastmod>2023-09-25T14:37:50.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/books/posts/video-test/index.html</loc>
+    <lastmod>2023-09-25T14:37:52.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/film-and-tv/index.html</loc>
+    <lastmod>2023-09-25T14:37:53.310Z</lastmod>
   </url>
 </urlset>

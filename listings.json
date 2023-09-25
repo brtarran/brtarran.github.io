@@ -1,10 +1,7 @@
 [
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/posts/post-with-code/index.html",
-      "/blog/posts/welcome/index.html"
-    ]
+    "listing": "/games/index.html",
+    "items": []
   },
   {
     "listing": "/books/index.html",
@@ -14,11 +11,14 @@
     ]
   },
   {
-    "listing": "/film-and-tv/index.html",
-    "items": []
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/post-with-code/index.html",
+      "/blog/posts/welcome/index.html"
+    ]
   },
   {
-    "listing": "/games/index.html",
+    "listing": "/film-and-tv/index.html",
     "items": []
   }
 ]
