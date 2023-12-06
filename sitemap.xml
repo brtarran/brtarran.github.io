@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brtarran.github.io/games/index.html</loc>
-    <lastmod>2023-09-25T14:46:08.776Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brtarran.github.io/books/posts/post-with-code/index.html</loc>
-    <lastmod>2023-09-25T14:46:08.180Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brtarran.github.io/books/index.html</loc>
-    <lastmod>2023-09-25T14:46:06.708Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brtarran.github.io/blog/posts/welcome/index.html</loc>
-    <lastmod>2023-09-25T14:46:05.400Z</lastmod>
+    <loc>https://brtarran.github.io/film-and-tv/index.html</loc>
+    <lastmod>2023-12-06T11:58:04.158Z</lastmod>
   </url>
   <url>
     <loc>https://brtarran.github.io/index.html</loc>
-    <lastmod>2023-09-25T14:46:03.668Z</lastmod>
+    <lastmod>2023-12-06T11:58:03.650Z</lastmod>
   </url>
   <url>
-    <loc>https://brtarran.github.io/blog/index.html</loc>
-    <lastmod>2023-09-25T14:46:04.504Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brtarran.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-09-25T14:46:06.224Z</lastmod>
+    <loc>https://brtarran.github.io/blog/posts/welcome/index.html</loc>
+    <lastmod>2023-12-06T11:58:02.706Z</lastmod>
   </url>
   <url>
     <loc>https://brtarran.github.io/books/posts/video-test/index.html</loc>
-    <lastmod>2023-09-25T14:46:07.456Z</lastmod>
+    <lastmod>2023-12-06T11:58:01.638Z</lastmod>
   </url>
   <url>
-    <loc>https://brtarran.github.io/film-and-tv/index.html</loc>
-    <lastmod>2023-09-25T14:46:08.484Z</lastmod>
+    <loc>https://brtarran.github.io/books/index.html</loc>
+    <lastmod>2023-12-06T11:57:59.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/books/posts/post-with-code/index.html</loc>
+    <lastmod>2023-12-06T11:58:00.922Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/blog/index.html</loc>
+    <lastmod>2023-12-06T11:58:02.022Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/blog/posts/post-with-code/index.html</loc>
+    <lastmod>2023-12-06T11:58:03.394Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brtarran.github.io/games/index.html</loc>
+    <lastmod>2023-12-06T11:58:03.910Z</lastmod>
   </url>
 </urlset>
