@@ -1,24 +1,24 @@
 [
   {
-    "listing": "/blog/index.html",
+    "listing": "/books/index.html",
     "items": [
-      "/blog/posts/post-with-code/index.html",
-      "/blog/posts/welcome/index.html"
+      "/books/posts/video-test/index.html",
+      "/books/posts/post-with-code/index.html"
     ]
-  },
-  {
-    "listing": "/games/index.html",
-    "items": []
   },
   {
     "listing": "/film-and-tv/index.html",
     "items": []
   },
   {
-    "listing": "/books/index.html",
+    "listing": "/games/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
     "items": [
-      "/books/posts/video-test/index.html",
-      "/books/posts/post-with-code/index.html"
+      "/blog/posts/post-with-code/index.html",
+      "/blog/posts/welcome/index.html"
     ]
   }
 ]
